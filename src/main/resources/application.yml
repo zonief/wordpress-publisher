@@ -1,1 +1,6 @@
+webclient:
+  baseUrl: 'localhost'
+  port: '18001'
 
+server:
+  port: '18003'
