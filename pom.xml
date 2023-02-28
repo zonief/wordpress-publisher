@@ -23,18 +23,6 @@
       <artifactId>spring-boot-starter-webflux</artifactId>
     </dependency>
     <dependency>
-      <groupId>com.afrozaar.wordpress</groupId>
-      <artifactId>wp-api-v2-client-java</artifactId>
-      <version>4.8.1</version>
-    </dependency>
-
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-devtools</artifactId>
-      <scope>runtime</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <optional>true</optional>

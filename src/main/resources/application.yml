@@ -1,6 +1,5 @@
 webclient:
-  baseUrl: 'localhost'
-  port: '18001'
+  baseUrl: 'https://www.vitefait.ovh'
 
 server:
   port: '18003'
